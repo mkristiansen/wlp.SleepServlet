@@ -3,7 +3,7 @@
 
 A simple servlet to help simulate a hanging J2EE WebContainer.
 
-When a http request is made to /SleepServlet it will one of the following: 
+When a http request is made to /SleepServlet it will do one of the following: 
 * Return **Hello World** in the body of the response.
 * Wait a specified amount of milliSeconds and return **Hello World** in the body of the response.
 
